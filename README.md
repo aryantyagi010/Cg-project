@@ -5,7 +5,7 @@
 ### Storyboard ###
 
 1. [Git URL](https://github.com/aryantyagi010/Cg-project)
-2. Commit ID
+2. Commit ID : a616c5d8ceaf2c58ecd6a3ee4f744675e8ae1901
 3. ![Project](./102117184-102117145-102117156-0x08-project.png)
 
 ### Final Project ###
